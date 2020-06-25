@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 最大的CPU占用率
-maxCPUPercuentage=1
+maxCPUPercuentage=90
 # 日志输出路径
 logFilePath="temp.log"
 
